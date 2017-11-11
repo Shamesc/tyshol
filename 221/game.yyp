@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "67307a49-181a-4e37-a2c6-5a4bb9f76c27",
+            "Value": {
+                "id": "9c1a48dc-e559-4574-88d3-129de479b7d1",
+                "resourcePath": "objects\\triggerdoor_obj\\triggerdoor_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "772da971-7c0d-4ce1-81ab-8f8448ee8a88",
             "Value": {
                 "id": "22ca2879-ac80-4896-a568-12fc5b67ff63",
@@ -332,6 +340,14 @@
                 "id": "648b1c1b-c8b8-4ed8-a55e-75ea6804d444",
                 "resourcePath": "objects\\engine_obj\\engine_obj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fdca643e-b995-4ebf-8520-aa501006eab5",
+            "Value": {
+                "id": "6b0340c5-12b5-42fc-a880-ee45342ce2fc",
+                "resourcePath": "sprites\\s_triggerdoor\\s_triggerdoor.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
